@@ -1,0 +1,29 @@
+{
+  "patches": [
+    {
+      "op": "resolve",
+      "conflict": "C1",
+      "value": 2019
+    },
+    {
+      "op": "resolve",
+      "conflict": "C2",
+      "value": 2021
+    },
+    {
+      "op": "resolve",
+      "conflict": "C3",
+      "value": 2020
+    }
+  ],
+  "gold_requirements": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

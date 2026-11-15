@@ -1,0 +1,116 @@
+{
+  "name": "Karim Saleh",
+  "orcid": null,
+  "title_prefix": null,
+  "current_position": "PhD candidate, University of Northbridge",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "University of Northbridge",
+      "year": null,
+      "status": "in_progress",
+      "expected_year": 2028,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science (in progress), University of Northbridge, expected 2028",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "level": "masters",
+      "field": "Data Science",
+      "institution": "Eastgate University",
+      "year": 2022,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "MSc in Data Science, Eastgate University, 2022",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [],
+  "teaching": [
+    {
+      "course": "Machine Learning",
+      "institution": "University of Northbridge",
+      "role": "assistant",
+      "university": true,
+      "start": 2023,
+      "end": 2025,
+      "evidence": [
+        {
+          "quote": "Teaching assistant, Machine Learning, University of Northbridge, 2023 - 2025",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [],
+  "publications": [
+    {
+      "title": "Robust tabular learning",
+      "venue": "Journal of Machine Vision Research",
+      "year": 2025,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "K. Saleh",
+        "L. Haddad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Robust tabular learning. Journal of Machine Vision Research, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Shift detection with kernels",
+      "venue": "Conference on Learning Representations",
+      "year": 2024,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "K. Saleh"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Shift detection with kernels. Proceedings of the Conference on Learning Representations, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Calibrated ensembles",
+      "venue": "Workshop on Reliable ML",
+      "year": 2023,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "K. Saleh",
+        "R. Moss"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Calibrated ensembles. Proceedings of the Workshop on Reliable ML, 2023",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [],
+  "supervision": [],
+  "indicators": {
+    "phd_indicated": false,
+    "notes": []
+  },
+  "conflicts": []
+}

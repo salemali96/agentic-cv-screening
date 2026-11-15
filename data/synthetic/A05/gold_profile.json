@@ -1,0 +1,246 @@
+{
+  "name": "Nadia Karim",
+  "orcid": null,
+  "title_prefix": null,
+  "current_position": "Lecturer, Al-Noor Institute of Technology",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Al-Noor Institute of Technology",
+      "year": 2019,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, Al-Noor Institute of Technology, awarded 2019",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Lecturer",
+      "organisation": "Al-Noor Institute of Technology",
+      "category": "academic",
+      "start": 2021,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer, Al-Noor Institute of Technology, 2021 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Research Associate",
+      "organisation": "Al-Noor Data Lab",
+      "category": "research",
+      "start": 2019,
+      "end": 2021,
+      "evidence": [
+        {
+          "quote": "Research Associate, Al-Noor Data Lab, 2019 - 2021",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Data Mining and Machine Learning",
+      "institution": "Al-Noor Institute of Technology",
+      "role": "lead",
+      "university": true,
+      "start": 2021,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer, Data Mining and Machine Learning, Al-Noor Institute of Technology, 2021 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Head of the Quality Assurance Unit",
+      "organisation": "Faculty of Computing",
+      "start": 2020,
+      "end": 2024,
+      "evidence": [
+        {
+          "quote": "Head of the Quality Assurance Unit, Faculty of Computing, 2020 - 2024",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Mining clinical notes with weak labels",
+      "venue": "Journal of Medical Text Analytics",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "N. Karim",
+        "A. Zaki"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Mining clinical notes with weak labels. Journal of Medical Text Analytics, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Temporal phenotyping from records",
+      "venue": "Journal of Health Data Science",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "N. Karim"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Temporal phenotyping from records. Journal of Health Data Science, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Privacy-preserving topic models",
+      "venue": "Journal of Data Privacy Engineering",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "N. Karim",
+        "O. Lutfi"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Privacy-preserving topic models. Journal of Data Privacy Engineering, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Active learning for de-identification",
+      "venue": "Clinical NLP Conference",
+      "year": 2025,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "N. Karim"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Active learning for de-identification. Proceedings of the Clinical NLP Conference, 2025",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Mining clinical notes",
+      "funder": "Al-Noor Research Fund",
+      "role": "Co-I",
+      "amount": null,
+      "year": 2022,
+      "evidence": [
+        {
+          "quote": "Co-I, Al-Noor Research Fund \"Mining clinical notes\", 2022",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "2 MSc students supervised to completion.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": [
+    {
+      "id": "C1",
+      "topic": "Year the PhD was awarded",
+      "item_type": "degrees",
+      "item_index": 0,
+      "field": "year",
+      "source": "documents",
+      "values": [
+        {
+          "value": 2019,
+          "doc": "cv",
+          "quote": "awarded 2019"
+        },
+        {
+          "value": 2021,
+          "doc": "cover_letter",
+          "quote": "Since completing my PhD in 2021"
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "topic": "Start of university teaching",
+      "item_type": "teaching",
+      "item_index": 0,
+      "field": "start",
+      "source": "documents",
+      "values": [
+        {
+          "value": 2021,
+          "doc": "cv",
+          "quote": "Data Mining and Machine Learning, Al-Noor Institute of Technology, 2021 - present"
+        },
+        {
+          "value": 2023,
+          "doc": "cover_letter",
+          "quote": "taught Data Mining and Machine Learning for the past three years"
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "topic": "Length of Quality Assurance Unit leadership",
+      "item_type": "leadership",
+      "item_index": 0,
+      "field": "start",
+      "source": "documents",
+      "values": [
+        {
+          "value": 2020,
+          "doc": "cv",
+          "quote": "Head of the Quality Assurance Unit, Faculty of Computing, 2020 - 2024"
+        },
+        {
+          "value": 2023,
+          "doc": "cover_letter",
+          "quote": "led our faculty's Quality Assurance Unit for one year"
+        }
+      ]
+    }
+  ]
+}

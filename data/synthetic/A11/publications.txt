@@ -1,0 +1,5 @@
+PUBLICATIONS
+1. D. Samy. Fair credit scoring under drift. Journal of Responsible Computing, 2024.
+2. D. Samy, E. Hosny. Auditing lending models. Journal of Financial Data Science Methods, 2023.
+3. D. Samy. Counterfactual fairness in practice. Journal of Responsible Computing, 2021.
+4. D. Samy, K. Adly. Group fairness for ranking. Proceedings of the Fairness in ML Conference, 2022.

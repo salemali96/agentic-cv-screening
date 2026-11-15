@@ -1,0 +1,6 @@
+PUBLICATIONS
+1. S. Youssef. Self-supervised cough detection. Journal of Health Audio Processing, 2025.
+2. S. Youssef, I. Kamel. Speech biomarkers for fatigue. Journal of Clinical Speech Technology, 2024.
+3. S. Youssef. Robust speaker embeddings. Transactions on Speech and Language, 2023.
+4. S. Youssef, A. Saad. Low-resource ASR for clinics. Journal of Clinical Speech Technology, 2022.
+5. S. Youssef. Domain adaptation for voice. Transactions on Speech and Language, 2021.

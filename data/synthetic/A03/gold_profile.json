@@ -1,0 +1,185 @@
+{
+  "name": "Sara Mansour",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Senior Lecturer, Eastgate University",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Eastgate University",
+      "year": 2015,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD, Computer Science, Eastgate University, 2015",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Senior Lecturer",
+      "organisation": "Eastgate University",
+      "category": "academic",
+      "start": 2019,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Senior Lecturer, Eastgate University, 2019 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Lecturer",
+      "organisation": "Eastgate University",
+      "category": "academic",
+      "start": 2016,
+      "end": 2019,
+      "evidence": [
+        {
+          "quote": "Lecturer, Eastgate University, 2016 - 2019",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Artificial Intelligence (BSc year 3)",
+      "institution": "Eastgate University",
+      "role": "lead",
+      "university": true,
+      "start": 2019,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Course leader, Artificial Intelligence (BSc year 3), Eastgate University, 2019 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Director, Applied AI Lab",
+      "organisation": "Eastgate University",
+      "start": null,
+      "end": null,
+      "evidence": [
+        {
+          "quote": "Director, Applied AI Lab, Eastgate University",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Explainable triage models",
+      "venue": "Journal of Clinical AI Systems",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Mansour",
+        "D. Vale"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Explainable triage models. Journal of Clinical AI Systems, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Counterfactual explanations at the bedside",
+      "venue": "Health ML Conference",
+      "year": 2025,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Mansour"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Counterfactual explanations at the bedside. Proceedings of the Health ML Conference, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Auditing triage fairness",
+      "venue": "Conference on Fair Computing",
+      "year": 2023,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Mansour",
+        "L. Grey"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Auditing triage fairness. Proceedings of the Conference on Fair Computing, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Rule extraction from ensembles",
+      "venue": "Symposium on Interpretable AI",
+      "year": 2022,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Mansour"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Rule extraction from ensembles. Proceedings of the Symposium on Interpretable AI, 2022",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Explainable triage",
+      "funder": "Eastgate Innovation Grant",
+      "role": "PI",
+      "amount": null,
+      "year": 2023,
+      "evidence": [
+        {
+          "quote": "PI, Eastgate Innovation Grant \"Explainable triage\", 2023",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "level": "phd",
+      "status": "ongoing",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "Currently supervising 2 PhD students.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

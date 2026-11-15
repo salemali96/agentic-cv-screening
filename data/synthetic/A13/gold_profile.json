@@ -1,0 +1,227 @@
+{
+  "name": "Salma Youssef",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Assistant Professor, Delta University",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "University of Northbridge",
+      "year": 2017,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, University of Northbridge, 2017",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "organisation": "Delta University",
+      "category": "academic",
+      "start": 2019,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Assistant Professor, Delta University, 2019 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "organisation": "Northbridge AI Institute",
+      "category": "research",
+      "start": 2017,
+      "end": 2019,
+      "evidence": [
+        {
+          "quote": "Postdoctoral Researcher, Northbridge AI Institute, 2017 - 2019",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Deep Learning",
+      "institution": "Delta University",
+      "role": "lead",
+      "university": true,
+      "start": 2019,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Course leader, Deep Learning, Delta University, 2019 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "course": "Data Mining",
+      "institution": "Delta University",
+      "role": "lead",
+      "university": true,
+      "start": 2020,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Course leader, Data Mining, Delta University, 2020 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Undergraduate Admissions Tutor",
+      "organisation": "Delta University",
+      "start": 2022,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Undergraduate Admissions Tutor, Delta University, 2022 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Self-supervised cough detection",
+      "venue": "Journal of Health Audio Processing",
+      "year": 2025,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Youssef"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Self-supervised cough detection. Journal of Health Audio Processing, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Speech biomarkers for fatigue",
+      "venue": "Journal of Clinical Speech Technology",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Youssef",
+        "I. Kamel"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Speech biomarkers for fatigue. Journal of Clinical Speech Technology, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Robust speaker embeddings",
+      "venue": "Transactions on Speech and Language",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Youssef"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Robust speaker embeddings. Transactions on Speech and Language, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Low-resource ASR for clinics",
+      "venue": "Journal of Clinical Speech Technology",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Youssef",
+        "A. Saad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Low-resource ASR for clinics. Journal of Clinical Speech Technology, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Domain adaptation for voice",
+      "venue": "Transactions on Speech and Language",
+      "year": 2021,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "S. Youssef"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Domain adaptation for voice. Transactions on Speech and Language, 2021",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Speech for health",
+      "funder": "Delta Research Board",
+      "role": "Co-I",
+      "amount": null,
+      "year": 2024,
+      "evidence": [
+        {
+          "quote": "Co-Investigator, Delta Research Board project \"Speech for health\", 2024",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "level": "phd",
+      "status": "ongoing",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Supervising 1 PhD student",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 4,
+      "evidence": [
+        {
+          "quote": "supervised 4 MSc students",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

@@ -1,0 +1,19 @@
+OMAR FAROUK
+Lecturer in Computer Science, Riverside University
+
+EDUCATION
+MSc in Computer Science, Delta University, 2015
+BSc in Computer Engineering, Delta University, 2012
+
+EXPERIENCE
+Lecturer in Computer Science, Riverside University, 2021 - present
+Postdoctoral Researcher, Riverside Machine Learning Group, 2020 - 2021
+
+TEACHING
+Lead lecturer, Introduction to Machine Learning, Riverside University, 2021 - present
+
+FUNDING
+Co-Investigator, Riverside Seed Fund project "Low-resource Arabic NLP", 2023
+
+SUPERVISION
+Supervised 2 MSc students (completed).

@@ -1,0 +1,277 @@
+{
+  "name": "Layla Haddad",
+  "orcid": "0000-0003-5555-0101",
+  "title_prefix": "Dr",
+  "current_position": "Senior Lecturer, University of Northbridge",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "University of Northbridge",
+      "year": 2016,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, University of Northbridge, 2016",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "level": "masters",
+      "field": "Artificial Intelligence",
+      "institution": "Eastgate University",
+      "year": 2012,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "MSc in Artificial Intelligence, Eastgate University, 2012",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Senior Lecturer",
+      "organisation": "University of Northbridge",
+      "category": "academic",
+      "start": 2018,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Senior Lecturer, School of Computing, University of Northbridge, 2018 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Postdoctoral Research Fellow",
+      "organisation": "Northbridge Vision Lab",
+      "category": "research",
+      "start": 2016,
+      "end": 2018,
+      "evidence": [
+        {
+          "quote": "Postdoctoral Research Fellow, Northbridge Vision Lab, 2016 - 2018",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Machine Learning (MSc)",
+      "institution": "University of Northbridge",
+      "role": "lead",
+      "university": true,
+      "start": 2018,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Module lead, Machine Learning (MSc), University of Northbridge, 2018 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Programme Director, MSc Artificial Intelligence",
+      "organisation": "University of Northbridge",
+      "start": 2021,
+      "end": 2024,
+      "evidence": [
+        {
+          "quote": "Programme Director, MSc Artificial Intelligence, 2021 - 2024",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Robust attention for medical images",
+      "venue": "Journal of Machine Vision Research",
+      "year": 2025,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad",
+        "M. Osei"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Robust attention for medical images. Journal of Machine Vision Research, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Certified defences for vision transformers",
+      "venue": "Transactions on Learning Systems",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Certified defences for vision transformers. Transactions on Learning Systems, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Federated diagnostics at scale",
+      "venue": "Journal of Health Informatics Computing",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad",
+        "P. Lind"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Federated diagnostics at scale. Journal of Health Informatics Computing, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Calibration under shift",
+      "venue": "Journal of Machine Vision Research",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad",
+        "K. Ito"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Calibration under shift. Journal of Machine Vision Research, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Sparse adversarial training",
+      "venue": "Conference on Learning Representations",
+      "year": 2024,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad",
+        "R. Moss"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Sparse adversarial training. Proceedings of the Conference on Learning Representations, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Data-efficient robustness",
+      "venue": "European Vision Conference",
+      "year": 2023,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Data-efficient robustness. Proceedings of the European Vision Conference, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Shift-aware evaluation",
+      "venue": "Workshop on Reliable ML",
+      "year": 2022,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "L. Haddad",
+        "T. Blum"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Shift-aware evaluation. Proceedings of the Workshop on Reliable ML, 2022",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Robust Vision Models",
+      "funder": "Northbridge Research Council",
+      "role": "PI",
+      "amount": null,
+      "year": 2022,
+      "evidence": [
+        {
+          "quote": "Principal Investigator, Northbridge Research Council grant \"Robust Vision Models\", 2022",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Federated Diagnostics",
+      "funder": "Regional Health Data Fund",
+      "role": "Co-I",
+      "amount": null,
+      "year": 2023,
+      "evidence": [
+        {
+          "quote": "Co-Investigator, Regional Health Data Fund project \"Federated Diagnostics\", 2023",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "level": "phd",
+      "status": "completed",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "Supervised 2 PhD students to completion (2022, 2024).",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 3,
+      "evidence": [
+        {
+          "quote": "Supervised 3 MSc dissertations.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

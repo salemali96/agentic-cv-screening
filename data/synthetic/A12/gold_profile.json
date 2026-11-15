@@ -1,0 +1,188 @@
+{
+  "name": "Rami Aziz",
+  "orcid": "0000-0001-5555-1212",
+  "title_prefix": "Dr",
+  "current_position": "Assistant Professor, Eastgate University",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Eastgate University",
+      "year": 2016,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, Eastgate University, 2016",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "organisation": "Eastgate University",
+      "category": "academic",
+      "start": 2020,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Assistant Professor, Eastgate University, 2020 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Lecturer",
+      "organisation": "Eastgate University",
+      "category": "academic",
+      "start": 2016,
+      "end": 2020,
+      "evidence": [
+        {
+          "quote": "Lecturer, Eastgate University, 2016 - 2020",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Reinforcement Learning",
+      "institution": "Eastgate University",
+      "role": "lead",
+      "university": true,
+      "start": 2020,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Module leader, Reinforcement Learning, Eastgate University, 2020 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Chair, Departmental Examinations Committee",
+      "organisation": "Eastgate University",
+      "start": 2023,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Chair, Departmental Examinations Committee, 2023 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Model-based exploration with priors",
+      "venue": "Journal of Reinforcement Learning Research",
+      "year": 2025,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "R. Aziz"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Model-based exploration with priors. Journal of Reinforcement Learning Research, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Offline policy evaluation in robotics",
+      "venue": "Journal of Reinforcement Learning Research",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "R. Aziz",
+        "G. Fouad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Offline policy evaluation in robotics. Journal of Reinforcement Learning Research, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Safe exploration via shielding",
+      "venue": "Journal of Autonomous Systems Learning",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "R. Aziz"
+      ],
+      "doi": "10.5555/rami.2022.shield",
+      "evidence": [
+        {
+          "quote": "Safe exploration via shielding. Journal of Autonomous Systems Learning, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Reward shaping from demonstrations",
+      "venue": "Journal of Robot Learning",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "R. Aziz",
+        "M. Lotfy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Reward shaping from demonstrations. Journal of Robot Learning, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Curiosity under partial observability",
+      "venue": "Conference on Learning Representations",
+      "year": 2023,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "R. Aziz"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Curiosity under partial observability. Proceedings of the Conference on Learning Representations, 2023",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [],
+  "supervision": [
+    {
+      "level": "phd",
+      "status": "ongoing",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Supervising 1 PhD student.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

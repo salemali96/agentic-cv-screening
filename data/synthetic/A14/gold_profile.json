@@ -1,0 +1,196 @@
+{
+  "name": "Hossam Ali",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Lecturer, Al-Noor Institute of Technology",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Al-Noor Institute of Technology",
+      "year": 2016,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD (Computer Science), Al-Noor Institute of Technology, 2016",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Lecturer",
+      "organisation": "Al-Noor Institute of Technology",
+      "category": "academic",
+      "start": 2016,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer, Al-Noor Institute of Technology, 2016 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Pattern Recognition",
+      "institution": "Al-Noor Institute of Technology",
+      "role": "lead",
+      "university": true,
+      "start": 2016,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer, Pattern Recognition, Al-Noor Institute of Technology, 2016 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Chair, faculty accreditation committee",
+      "organisation": "Al-Noor Institute of Technology",
+      "start": 2018,
+      "end": 2022,
+      "evidence": [
+        {
+          "quote": "chaired the faculty accreditation committee from 2018 to 2022",
+          "doc": "cover_letter"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Handwriting recognition for Arabic forms",
+      "venue": "Journal of Document Analysis Studies",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ali"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Handwriting recognition for Arabic forms. Journal of Document Analysis Studies, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Few-shot glyph recognition",
+      "venue": "Journal of Pattern Recognition Methods",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ali",
+        "S. Gad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Few-shot glyph recognition. Journal of Pattern Recognition Methods, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Layout-aware OCR",
+      "venue": "Document Analysis Conference",
+      "year": 2024,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ali"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Layout-aware OCR. Proceedings of the Document Analysis Conference, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Feature learning for scripts",
+      "venue": "Journal of Pattern Recognition Methods",
+      "year": 2019,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ali"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Feature learning for scripts. Journal of Pattern Recognition Methods, 2019",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Line segmentation revisited",
+      "venue": "Document Analysis Conference",
+      "year": 2017,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ali",
+        "S. Gad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Line segmentation revisited. Proceedings of the Document Analysis Conference, 2017",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [],
+  "supervision": [
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 1,
+      "evidence": [
+        {
+          "quote": "Supervised 1 MSc student.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": [
+    {
+      "id": "C1",
+      "topic": "Field of the PhD",
+      "item_type": "degrees",
+      "item_index": 0,
+      "field": "field",
+      "source": "documents",
+      "values": [
+        {
+          "value": "Computer Science",
+          "doc": "cv",
+          "quote": "PhD (Computer Science)"
+        },
+        {
+          "value": "Computer Engineering",
+          "doc": "cover_letter",
+          "quote": "With a PhD in Computer Engineering"
+        }
+      ]
+    }
+  ]
+}

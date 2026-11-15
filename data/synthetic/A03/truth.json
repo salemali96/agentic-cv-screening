@@ -1,0 +1,28 @@
+{
+  "patches": [
+    {
+      "op": "set",
+      "section": "leadership",
+      "index": 0,
+      "field": "start",
+      "value": 2022
+    },
+    {
+      "op": "set",
+      "section": "leadership",
+      "index": 0,
+      "field": "end",
+      "value": "present"
+    }
+  ],
+  "gold_requirements": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

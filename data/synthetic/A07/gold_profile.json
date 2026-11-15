@@ -1,0 +1,159 @@
+{
+  "name": "Hana Ibrahim",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Lecturer, Riverside University",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Engineering",
+      "institution": "Riverside University",
+      "year": 2019,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Engineering, Riverside University, 2019",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Lecturer",
+      "organisation": "Riverside University",
+      "category": "academic",
+      "start": 2019,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer, Riverside University, 2019 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Operating Systems",
+      "institution": "Riverside University",
+      "role": "lead",
+      "university": true,
+      "start": 2019,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Course lead, Operating Systems, Riverside University, 2019 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "course": "Computer Networks",
+      "institution": "Riverside University",
+      "role": "lead",
+      "university": true,
+      "start": 2021,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Course lead, Computer Networks, Riverside University, 2021 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [],
+  "publications": [
+    {
+      "title": "Energy-aware edge inference",
+      "venue": "Journal of Embedded Intelligence",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ibrahim"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Energy-aware edge inference. Journal of Embedded Intelligence, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Scheduling DNNs on microcontrollers",
+      "venue": "Journal of Systems Architecture Studies",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ibrahim",
+        "K. Fahmy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Scheduling DNNs on microcontrollers. Journal of Systems Architecture Studies, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "TinyML for irrigation sensing",
+      "venue": "Edge Computing Conference",
+      "year": 2023,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ibrahim"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "TinyML for irrigation sensing. Proceedings of the Edge Computing Conference, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Compressing keyword spotters",
+      "venue": "Edge Computing Conference",
+      "year": 2021,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "H. Ibrahim",
+        "W. Nasr"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Compressing keyword spotters. Proceedings of the Edge Computing Conference, 2021",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [],
+  "supervision": [
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "Supervised 2 MSc projects.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

@@ -1,0 +1,4 @@
+PUBLICATIONS
+1. A. Hassan. Learning to route parcels. Journal of Logistics Computing, 2024.
+2. A. Hassan, B. Wahba. Vehicle routing with transformers.
+3. A. Hassan. A survey of neural combinatorial optimisation.

@@ -1,0 +1,172 @@
+{
+  "name": "Dina Samy",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Assistant Professor, Riverside University",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Eastgate University",
+      "year": 2017,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, Eastgate University, 2017",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "organisation": "Riverside University",
+      "category": "academic",
+      "start": 2018,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Assistant Professor, Riverside University, 2018 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Machine Learning Foundations",
+      "institution": "Riverside University",
+      "role": "lead",
+      "university": true,
+      "start": 2018,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Instructor, Machine Learning Foundations, Riverside University, 2018 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Member of the Faculty Board",
+      "organisation": "Riverside University",
+      "start": 2021,
+      "end": 2023,
+      "evidence": [
+        {
+          "quote": "Member of the Faculty Board, 2021 - 2023",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Fair credit scoring under drift",
+      "venue": "Journal of Responsible Computing",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "D. Samy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Fair credit scoring under drift. Journal of Responsible Computing, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Auditing lending models",
+      "venue": "Journal of Financial Data Science Methods",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "D. Samy",
+        "E. Hosny"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Auditing lending models. Journal of Financial Data Science Methods, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Counterfactual fairness in practice",
+      "venue": "Journal of Responsible Computing",
+      "year": 2021,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "D. Samy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Counterfactual fairness in practice. Journal of Responsible Computing, 2021",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Group fairness for ranking",
+      "venue": "Fairness in ML Conference",
+      "year": 2022,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "D. Samy",
+        "K. Adly"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Group fairness for ranking. Proceedings of the Fairness in ML Conference, 2022",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Fair credit scoring",
+      "funder": "Academy of Scientific Research",
+      "role": null,
+      "amount": null,
+      "year": 2022,
+      "evidence": [
+        {
+          "quote": "Academy of Scientific Research grant \"Fair credit scoring\", 2022",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": null,
+      "evidence": [
+        {
+          "quote": "Supervised several MSc students.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

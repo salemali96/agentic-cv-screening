@@ -1,0 +1,3 @@
+Dear Committee,
+I lead the Deep Learning course at Delta University and work on speech models for health monitoring.
+Yours faithfully, Salma Youssef

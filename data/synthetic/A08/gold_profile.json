@@ -1,0 +1,115 @@
+{
+  "name": "Tarek Nabil",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Senior Machine Learning Engineer, Horizon Analytics",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Eastgate University",
+      "year": 2021,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, Eastgate University, 2021",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Senior Machine Learning Engineer",
+      "organisation": "Horizon Analytics",
+      "category": "industry",
+      "start": 2021,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Senior Machine Learning Engineer, Horizon Analytics, 2021 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Data Structures and Algorithms",
+      "institution": "Eastgate University",
+      "role": null,
+      "university": true,
+      "start": null,
+      "end": null,
+      "evidence": [
+        {
+          "quote": "Taught Data Structures and Algorithms at Eastgate University.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [],
+  "publications": [
+    {
+      "title": "Ranking with sparse feedback",
+      "venue": "Recommender Systems Conference",
+      "year": 2022,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "T. Nabil"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Ranking with sparse feedback. Proceedings of the Recommender Systems Conference, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Fast retrieval for product search",
+      "venue": "Information Retrieval Conference",
+      "year": 2023,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "T. Nabil",
+        "J. Kamal"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Fast retrieval for product search. Proceedings of the Information Retrieval Conference, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Bandits for pricing",
+      "venue": "Applied ML Conference",
+      "year": 2024,
+      "type": "conference",
+      "peer_reviewed": true,
+      "authors": [
+        "T. Nabil"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Bandits for pricing. Proceedings of the Applied ML Conference, 2024",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [],
+  "supervision": [],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

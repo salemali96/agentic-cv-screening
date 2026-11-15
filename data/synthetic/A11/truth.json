@@ -1,0 +1,28 @@
+{
+  "patches": [
+    {
+      "op": "set",
+      "section": "grants",
+      "index": 0,
+      "field": "role",
+      "value": "PI"
+    },
+    {
+      "op": "set",
+      "section": "supervision",
+      "index": 0,
+      "field": "count",
+      "value": 4
+    }
+  ],
+  "gold_requirements": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

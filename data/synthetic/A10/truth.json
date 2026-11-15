@@ -1,0 +1,56 @@
+{
+  "patches": [
+    {
+      "op": "set",
+      "section": "degrees",
+      "index": 0,
+      "field": "field",
+      "value": "Operations Research"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 1,
+      "field": "year",
+      "value": 2023
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 1,
+      "field": "type",
+      "value": "conference"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 2,
+      "field": "year",
+      "value": 2025
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 2,
+      "field": "type",
+      "value": "preprint"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 2,
+      "field": "peer_reviewed",
+      "value": false
+    }
+  ],
+  "gold_requirements": {
+    "R1": "not_established",
+    "R2": "met",
+    "R3": "not_established"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "not_established",
+    "R2": "met",
+    "R3": "not_met"
+  }
+}

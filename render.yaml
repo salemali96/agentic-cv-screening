@@ -1,0 +1,14 @@
+# One-click public demo on Render (render.com): New → Blueprint → select this repository.
+# Runs in public demo mode: no AI model calls, uploads or live lookups, so visitors cannot run up costs
+# or upload personal data. Remove CVSCREEN_PUBLIC_DEMO for a private deployment, and set CVSCREEN_PASSWORD.
+services:
+  - type: web
+    name: cvscreen-demo
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: CVSCREEN_PUBLIC_DEMO
+        value: "1"
+      - key: CVSCREEN_DB
+        value: /tmp/cvscreen.sqlite3

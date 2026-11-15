@@ -1,0 +1,193 @@
+{
+  "name": "Youssef Adel",
+  "orcid": "0000-0002-5555-0404",
+  "title_prefix": null,
+  "current_position": "Assistant Professor, Delta University",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Delta University",
+      "year": 2018,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, Delta University, 2018",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "organisation": "Delta University",
+      "category": "academic",
+      "start": 2020,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Assistant Professor, Delta University, 2020 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Postdoctoral Fellow",
+      "organisation": "Delta AI Centre",
+      "category": "research",
+      "start": 2018,
+      "end": 2020,
+      "evidence": [
+        {
+          "quote": "Postdoctoral Fellow, Delta AI Centre, 2018 - 2020",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Deep Learning",
+      "institution": "Delta University",
+      "role": "lead",
+      "university": true,
+      "start": 2020,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer in charge, Deep Learning, Delta University, 2020 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [],
+  "publications": [
+    {
+      "title": "Message passing on sparse hardware",
+      "venue": "Journal of Graph Learning",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "Y. Adel",
+        "F. Nour"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Message passing on sparse hardware. Journal of Graph Learning, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Pruning graph networks without retraining",
+      "venue": "Journal of Efficient Computing",
+      "year": 2021,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "Y. Adel"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Pruning graph networks without retraining. Journal of Efficient Computing, 2021",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Graph attention for traffic forecasting",
+      "venue": null,
+      "year": null,
+      "type": null,
+      "peer_reviewed": null,
+      "authors": [
+        "Y. Adel",
+        "M. Saber"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Y. Adel, M. Saber. Graph attention for traffic forecasting.",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Quantised message passing",
+      "venue": null,
+      "year": null,
+      "type": null,
+      "peer_reviewed": null,
+      "authors": [
+        "Y. Adel"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Y. Adel. Quantised message passing.",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Benchmarking temporal graph models",
+      "venue": null,
+      "year": null,
+      "type": null,
+      "peer_reviewed": null,
+      "authors": [
+        "Y. Adel",
+        "R. Hamdy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Y. Adel, R. Hamdy. Benchmarking temporal graph models.",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Spectral sparsification revisited",
+      "venue": null,
+      "year": null,
+      "type": null,
+      "peer_reviewed": null,
+      "authors": [
+        "Y. Adel"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Y. Adel. Spectral sparsification revisited.",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [],
+  "supervision": [
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 3,
+      "evidence": [
+        {
+          "quote": "Supervised 3 MSc theses.",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

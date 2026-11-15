@@ -1,0 +1,33 @@
+{
+  "patches": [
+    {
+      "op": "add",
+      "section": "teaching",
+      "item": {
+        "course": "Time Series Analysis (guest lecturer)",
+        "institution": "Delta University",
+        "role": "assistant",
+        "university": true,
+        "start": 2019,
+        "end": 2022,
+        "evidence": [
+          {
+            "quote": "(clarification reply) Guest lecturer, Time Series Analysis, Delta University, 2019 - 2022",
+            "doc": "clarification",
+            "check": "external"
+          }
+        ]
+      }
+    }
+  ],
+  "gold_requirements": {
+    "R1": "met",
+    "R2": "not_established",
+    "R3": "met"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

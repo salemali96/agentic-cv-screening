@@ -1,0 +1,4 @@
+PUBLICATIONS
+1. K. Saleh, L. Haddad. Robust tabular learning. Journal of Machine Vision Research, 2025.
+2. K. Saleh. Shift detection with kernels. Proceedings of the Conference on Learning Representations, 2024.
+3. K. Saleh, R. Moss. Calibrated ensembles. Proceedings of the Workshop on Reliable ML, 2023.

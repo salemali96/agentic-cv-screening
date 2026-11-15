@@ -1,0 +1,35 @@
+{
+  "patches": [
+    {
+      "op": "set",
+      "section": "teaching",
+      "index": 0,
+      "field": "start",
+      "value": 2019
+    },
+    {
+      "op": "set",
+      "section": "teaching",
+      "index": 0,
+      "field": "end",
+      "value": 2021
+    },
+    {
+      "op": "set",
+      "section": "teaching",
+      "index": 0,
+      "field": "role",
+      "value": "assistant"
+    }
+  ],
+  "gold_requirements": {
+    "R1": "met",
+    "R2": "not_established",
+    "R3": "met"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

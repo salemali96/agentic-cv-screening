@@ -1,0 +1,6 @@
+PUBLICATIONS
+1. H. Ali. Handwriting recognition for Arabic forms. Journal of Document Analysis Studies, 2023.
+2. H. Ali, S. Gad. Few-shot glyph recognition. Journal of Pattern Recognition Methods, 2022.
+3. H. Ali. Layout-aware OCR. Proceedings of the Document Analysis Conference, 2024.
+4. H. Ali. Feature learning for scripts. Journal of Pattern Recognition Methods, 2019.
+5. H. Ali, S. Gad. Line segmentation revisited. Proceedings of the Document Analysis Conference, 2017.

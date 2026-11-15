@@ -1,0 +1,7 @@
+PUBLICATIONS
+1. Y. Adel, F. Nour. Message passing on sparse hardware. Journal of Graph Learning, 2023.
+2. Y. Adel. Pruning graph networks without retraining. Journal of Efficient Computing, 2021.
+3. Y. Adel, M. Saber. Graph attention for traffic forecasting.
+4. Y. Adel. Quantised message passing.
+5. Y. Adel, R. Hamdy. Benchmarking temporal graph models.
+6. Y. Adel. Spectral sparsification revisited.

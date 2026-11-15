@@ -1,0 +1,3 @@
+Dear Committee,
+I research sample-efficient reinforcement learning and lead the Reinforcement Learning module at Eastgate.
+Best wishes, Rami Aziz

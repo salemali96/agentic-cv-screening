@@ -1,0 +1,72 @@
+[
+  {
+    "id": "A01",
+    "name": "Layla Haddad",
+    "scenario": "Complete, strong application (control)"
+  },
+  {
+    "id": "A02",
+    "name": "Omar Farouk",
+    "scenario": "Required qualification unstated: PhD never mentioned, but postdoc and lecturer roles imply it"
+  },
+  {
+    "id": "A03",
+    "name": "Sara Mansour",
+    "scenario": "Leadership role with no dates; near the shortlist cut-off"
+  },
+  {
+    "id": "A04",
+    "name": "Youssef Adel",
+    "scenario": "Publication list incomplete: four entries without year or venue; one external match belongs to another person"
+  },
+  {
+    "id": "A05",
+    "name": "Nadia Karim",
+    "scenario": "Documents conflict: CV and cover letter disagree on PhD year, teaching start and leadership length"
+  },
+  {
+    "id": "A06",
+    "name": "Karim Saleh",
+    "scenario": "Evidence that a requirement is NOT met: PhD expected after the start date"
+  },
+  {
+    "id": "A07",
+    "name": "Hana Ibrahim",
+    "scenario": "Complete, mid-ranked application (control)"
+  },
+  {
+    "id": "A08",
+    "name": "Tarek Nabil",
+    "scenario": "Undated teaching, but even the best case cannot reach the shortlist (gap not worth chasing)"
+  },
+  {
+    "id": "A09",
+    "name": "Mona Fathy",
+    "scenario": "Required teaching never mentioned; strong research record"
+  },
+  {
+    "id": "A10",
+    "name": "Amr Hassan",
+    "scenario": "Many gaps, but the best case is still far below the cut-off (no clarification needed)"
+  },
+  {
+    "id": "A11",
+    "name": "Dina Samy",
+    "scenario": "Grant role and number of supervised students not stated"
+  },
+  {
+    "id": "A12",
+    "name": "Rami Aziz",
+    "scenario": "Complete CV; an external record disagrees with the CV on a publication year"
+  },
+  {
+    "id": "A13",
+    "name": "Salma Youssef",
+    "scenario": "Complete, strong application (control)"
+  },
+  {
+    "id": "A14",
+    "name": "Hossam Ali",
+    "scenario": "Field of PhD differs between documents (both acceptable); leadership only in the cover letter"
+  }
+]

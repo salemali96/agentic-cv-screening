@@ -1,0 +1,8 @@
+PUBLICATIONS (peer reviewed)
+1. L. Haddad, M. Osei. Robust attention for medical images. Journal of Machine Vision Research, 2025.
+2. L. Haddad. Certified defences for vision transformers. Transactions on Learning Systems, 2024.
+3. L. Haddad, P. Lind. Federated diagnostics at scale. Journal of Health Informatics Computing, 2023.
+4. L. Haddad, K. Ito. Calibration under shift. Journal of Machine Vision Research, 2022.
+5. L. Haddad, R. Moss. Sparse adversarial training. Proceedings of the Conference on Learning Representations, 2024.
+6. L. Haddad. Data-efficient robustness. Proceedings of the European Vision Conference, 2023.
+7. L. Haddad, T. Blum. Shift-aware evaluation. Proceedings of the Workshop on Reliable ML, 2022.

@@ -1,0 +1,3 @@
+Dear Committee,
+I work on fairness in machine learning for finance and teach Machine Learning Foundations.
+Sincerely, Dina Samy

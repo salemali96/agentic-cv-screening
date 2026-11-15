@@ -1,0 +1,7 @@
+SELECTED PUBLICATIONS
+- O. Farouk, S. Amin. Tokenisation for Arabic dialects. Journal of Language Technology, 2025.
+- O. Farouk. Small models for low-resource translation. Computational Linguistics Letters, 2024.
+- O. Farouk, H. Badr. Evaluating dialect robustness. Journal of Language Technology, 2023.
+- O. Farouk, N. Riad. Cross-lingual transfer for Nubian. Transactions on Speech and Language, 2023.
+- O. Farouk. Data augmentation for Egyptian Arabic. Journal of Natural Language Engineering Studies, 2022.
+- O. Farouk, S. Amin. Benchmarks for Arabic code-switching. Language Resources Journal, 2021.

@@ -1,0 +1,6 @@
+PUBLICATIONS
+1. R. Aziz. Model-based exploration with priors. Journal of Reinforcement Learning Research, 2025.
+2. R. Aziz, G. Fouad. Offline policy evaluation in robotics. Journal of Reinforcement Learning Research, 2023.
+3. R. Aziz. Safe exploration via shielding. Journal of Autonomous Systems Learning, 2022. doi:10.5555/rami.2022.shield
+4. R. Aziz, M. Lotfy. Reward shaping from demonstrations. Journal of Robot Learning, 2024.
+5. R. Aziz. Curiosity under partial observability. Proceedings of the Conference on Learning Representations, 2023.

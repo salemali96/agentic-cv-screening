@@ -1,0 +1,7 @@
+JOURNAL ARTICLES
+1. M. Fathy. Probabilistic load forecasting. Journal of Forecasting Methods, 2025.
+2. M. Fathy, A. Sobhy. Conformal intervals for demand. Journal of Forecasting Methods, 2024.
+3. M. Fathy. Hierarchical reconciliation at scale. Journal of Applied Statistics and Computing, 2024.
+4. M. Fathy, D. Rizk. Drift-aware retraining. Journal of Machine Learning Operations, 2023.
+5. M. Fathy. Quantile transformers. Journal of Time Series Learning, 2022.
+6. M. Fathy, A. Sobhy. Weather-aware forecasting. Journal of Time Series Learning, 2021.

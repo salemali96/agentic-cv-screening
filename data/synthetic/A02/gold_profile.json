@@ -1,0 +1,225 @@
+{
+  "name": "Omar Farouk",
+  "orcid": null,
+  "title_prefix": null,
+  "current_position": "Lecturer in Computer Science, Riverside University",
+  "degrees": [
+    {
+      "level": "masters",
+      "field": "Computer Science",
+      "institution": "Delta University",
+      "year": 2015,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "MSc in Computer Science, Delta University, 2015",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "level": "bachelors",
+      "field": "Computer Engineering",
+      "institution": "Delta University",
+      "year": 2012,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "BSc in Computer Engineering, Delta University, 2012",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Lecturer in Computer Science",
+      "organisation": "Riverside University",
+      "category": "academic",
+      "start": 2021,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lecturer in Computer Science, Riverside University, 2021 - present",
+          "doc": "cv"
+        }
+      ]
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "organisation": "Riverside Machine Learning Group",
+      "category": "research",
+      "start": 2020,
+      "end": 2021,
+      "evidence": [
+        {
+          "quote": "Postdoctoral Researcher, Riverside Machine Learning Group, 2020 - 2021",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Introduction to Machine Learning",
+      "institution": "Riverside University",
+      "role": "lead",
+      "university": true,
+      "start": 2021,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Lead lecturer, Introduction to Machine Learning, Riverside University, 2021 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "leadership": [],
+  "publications": [
+    {
+      "title": "Tokenisation for Arabic dialects",
+      "venue": "Journal of Language Technology",
+      "year": 2025,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "O. Farouk",
+        "S. Amin"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Tokenisation for Arabic dialects. Journal of Language Technology, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Small models for low-resource translation",
+      "venue": "Computational Linguistics Letters",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "O. Farouk"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Small models for low-resource translation. Computational Linguistics Letters, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating dialect robustness",
+      "venue": "Journal of Language Technology",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "O. Farouk",
+        "H. Badr"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Evaluating dialect robustness. Journal of Language Technology, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Cross-lingual transfer for Nubian",
+      "venue": "Transactions on Speech and Language",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "O. Farouk",
+        "N. Riad"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Cross-lingual transfer for Nubian. Transactions on Speech and Language, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Data augmentation for Egyptian Arabic",
+      "venue": "Journal of Natural Language Engineering Studies",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "O. Farouk"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Data augmentation for Egyptian Arabic. Journal of Natural Language Engineering Studies, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Benchmarks for Arabic code-switching",
+      "venue": "Language Resources Journal",
+      "year": 2021,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "O. Farouk",
+        "S. Amin"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Benchmarks for Arabic code-switching. Language Resources Journal, 2021",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Low-resource Arabic NLP",
+      "funder": "Riverside Seed Fund",
+      "role": "Co-I",
+      "amount": null,
+      "year": 2023,
+      "evidence": [
+        {
+          "quote": "Co-Investigator, Riverside Seed Fund project \"Low-resource Arabic NLP\", 2023",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "level": "masters",
+      "status": "completed",
+      "count": 2,
+      "evidence": [
+        {
+          "quote": "Supervised 2 MSc students (completed).",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": [
+      "holds a postdoctoral post (2020 - 2021)",
+      "lecturer since 2021"
+    ]
+  },
+  "conflicts": []
+}

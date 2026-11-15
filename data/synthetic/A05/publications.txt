@@ -1,0 +1,5 @@
+PUBLICATIONS
+1. N. Karim, A. Zaki. Mining clinical notes with weak labels. Journal of Medical Text Analytics, 2024.
+2. N. Karim. Temporal phenotyping from records. Journal of Health Data Science, 2023.
+3. N. Karim, O. Lutfi. Privacy-preserving topic models. Journal of Data Privacy Engineering, 2022.
+4. N. Karim. Active learning for de-identification. Proceedings of the Clinical NLP Conference, 2025.

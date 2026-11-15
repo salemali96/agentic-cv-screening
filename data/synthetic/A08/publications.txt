@@ -1,0 +1,4 @@
+PUBLICATIONS
+1. T. Nabil. Ranking with sparse feedback. Proceedings of the Recommender Systems Conference, 2022.
+2. T. Nabil, J. Kamal. Fast retrieval for product search. Proceedings of the Information Retrieval Conference, 2023.
+3. T. Nabil. Bandits for pricing. Proceedings of the Applied ML Conference, 2024.

@@ -1,0 +1,167 @@
+{
+  "name": "Mona Fathy",
+  "orcid": null,
+  "title_prefix": "Dr",
+  "current_position": "Research Scientist, National Institute for Computing Research",
+  "degrees": [
+    {
+      "level": "phd",
+      "field": "Computer Science",
+      "institution": "Delta University",
+      "year": 2018,
+      "status": "completed",
+      "expected_year": null,
+      "evidence": [
+        {
+          "quote": "PhD in Computer Science, Delta University, 2018",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Research Scientist",
+      "organisation": "National Institute for Computing Research",
+      "category": "research",
+      "start": 2018,
+      "end": "present",
+      "evidence": [
+        {
+          "quote": "Research Scientist, National Institute for Computing Research, 2018 - present",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "teaching": [],
+  "leadership": [],
+  "publications": [
+    {
+      "title": "Probabilistic load forecasting",
+      "venue": "Journal of Forecasting Methods",
+      "year": 2025,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "M. Fathy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Probabilistic load forecasting. Journal of Forecasting Methods, 2025",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Conformal intervals for demand",
+      "venue": "Journal of Forecasting Methods",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "M. Fathy",
+        "A. Sobhy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Conformal intervals for demand. Journal of Forecasting Methods, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Hierarchical reconciliation at scale",
+      "venue": "Journal of Applied Statistics and Computing",
+      "year": 2024,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "M. Fathy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Hierarchical reconciliation at scale. Journal of Applied Statistics and Computing, 2024",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Drift-aware retraining",
+      "venue": "Journal of Machine Learning Operations",
+      "year": 2023,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "M. Fathy",
+        "D. Rizk"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Drift-aware retraining. Journal of Machine Learning Operations, 2023",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Quantile transformers",
+      "venue": "Journal of Time Series Learning",
+      "year": 2022,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "M. Fathy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Quantile transformers. Journal of Time Series Learning, 2022",
+          "doc": "publications"
+        }
+      ]
+    },
+    {
+      "title": "Weather-aware forecasting",
+      "venue": "Journal of Time Series Learning",
+      "year": 2021,
+      "type": "journal",
+      "peer_reviewed": true,
+      "authors": [
+        "M. Fathy",
+        "A. Sobhy"
+      ],
+      "doi": null,
+      "evidence": [
+        {
+          "quote": "Weather-aware forecasting. Journal of Time Series Learning, 2021",
+          "doc": "publications"
+        }
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Trustworthy forecasting",
+      "funder": "National Science Programme",
+      "role": "PI",
+      "amount": null,
+      "year": 2024,
+      "evidence": [
+        {
+          "quote": "Principal Investigator, National Science Programme grant \"Trustworthy forecasting\", 2024",
+          "doc": "cv"
+        }
+      ]
+    }
+  ],
+  "supervision": [],
+  "indicators": {
+    "phd_indicated": true,
+    "notes": []
+  },
+  "conflicts": []
+}

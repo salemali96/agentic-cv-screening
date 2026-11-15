@@ -1,0 +1,3 @@
+Dear Committee,
+My research is on efficient graph neural networks. My full publication list is attached; some recent papers are listed in short form.
+Best regards, Youssef Adel

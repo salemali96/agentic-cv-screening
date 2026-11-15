@@ -1,0 +1,33 @@
+{
+  "patches": [
+    {
+      "op": "add",
+      "section": "degrees",
+      "item": {
+        "level": "phd",
+        "field": "Computer Science",
+        "institution": "Delta University",
+        "year": 2020,
+        "status": "completed",
+        "expected_year": null,
+        "evidence": [
+          {
+            "quote": "(clarification reply) PhD in Computer Science, Delta University, 2020",
+            "doc": "clarification",
+            "check": "external"
+          }
+        ]
+      }
+    }
+  ],
+  "gold_requirements": {
+    "R1": "not_established",
+    "R2": "met",
+    "R3": "met"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "https://api.crossref.org/works?query.bibliographic=Graph+attention+for+traffic+forecasting&query.author=adel&rows=3": {
+    "message": {
+      "items": [
+        {
+          "DOI": "10.5555/adel.2024.traffic",
+          "type": "journal-article",
+          "title": [
+            "Graph attention for traffic forecasting"
+          ],
+          "container-title": [
+            "Journal of Intelligent Transport Systems"
+          ],
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "author": [
+            {
+              "given": "Youssef",
+              "family": "Adel",
+              "ORCID": "https://orcid.org/0000-0002-5555-0404",
+              "affiliation": [
+                {
+                  "name": "Delta University"
+                }
+              ]
+            },
+            {
+              "given": "Mariam",
+              "family": "Saber",
+              "affiliation": [
+                {
+                  "name": "Delta University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "https://api.crossref.org/works?query.bibliographic=Quantised+message+passing&query.author=adel&rows=3": {
+    "message": {
+      "items": [
+        {
+          "DOI": "10.5555/adel.2022.quant",
+          "type": "journal-article",
+          "title": [
+            "Quantised message passing"
+          ],
+          "container-title": [
+            "Journal of Efficient Computing"
+          ],
+          "issued": {
+            "date-parts": [
+              [
+                2022
+              ]
+            ]
+          },
+          "author": [
+            {
+              "given": "Youssef",
+              "family": "Adel",
+              "affiliation": [
+                {
+                  "name": "Faculty of Computing, Delta University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "https://api.crossref.org/works?query.bibliographic=Benchmarking+temporal+graph+models&query.author=adel&rows=3": {
+    "message": {
+      "items": [
+        {
+          "DOI": "10.5555/adel.2023.temporal",
+          "type": "journal-article",
+          "title": [
+            "Benchmarking temporal graph models"
+          ],
+          "container-title": [
+            "Journal of Graph Learning"
+          ],
+          "issued": {
+            "date-parts": [
+              [
+                2023
+              ]
+            ]
+          },
+          "author": [
+            {
+              "given": "Youssef",
+              "family": "Adel",
+              "ORCID": "https://orcid.org/0000-0002-5555-0404",
+              "affiliation": [
+                {
+                  "name": "Delta University"
+                }
+              ]
+            },
+            {
+              "given": "Rana",
+              "family": "Hamdy"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "https://api.crossref.org/works?query.bibliographic=Spectral+sparsification+revisited&query.author=adel&rows=3": {
+    "message": {
+      "items": [
+        {
+          "DOI": "10.5555/yasmin.2024.spectral",
+          "type": "journal-article",
+          "title": [
+            "Spectral sparsification revisited"
+          ],
+          "container-title": [
+            "Journal of Numerical Graph Theory"
+          ],
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "author": [
+            {
+              "given": "Yasmin",
+              "family": "Adel",
+              "ORCID": "https://orcid.org/0000-0003-5555-9999",
+              "affiliation": [
+                {
+                  "name": "Coastal Polytechnic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "https://api.crossref.org/works?query.bibliographic=Vehicle+routing+with+transformers&query.author=hassan&rows=3": {
+    "message": {
+      "items": []
+    }
+  },
+  "https://api.crossref.org/works?query.bibliographic=A+survey+of+neural+combinatorial+optimisation&query.author=hassan&rows=3": {
+    "message": {
+      "items": []
+    }
+  },
+  "https://pub.orcid.org/v3.0/0000-0001-5555-1212/works": {
+    "group": [
+      {
+        "work-summary": [
+          {
+            "title": {
+              "title": {
+                "value": "Safe exploration via shielding"
+              }
+            },
+            "type": "journal-article",
+            "publication-date": {
+              "year": {
+                "value": "2021"
+              }
+            },
+            "journal-title": {
+              "value": "Journal of Autonomous Systems Learning"
+            },
+            "external-ids": {
+              "external-id": [
+                {
+                  "external-id-type": "doi",
+                  "external-id-value": "10.5555/rami.2022.shield"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "work-summary": [
+          {
+            "title": {
+              "title": {
+                "value": "Model-based exploration with priors"
+              }
+            },
+            "type": "journal-article",
+            "publication-date": {
+              "year": {
+                "value": "2025"
+              }
+            },
+            "journal-title": {
+              "value": "Journal of Reinforcement Learning Research"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "https://pub.orcid.org/v3.0/0000-0002-5555-0404/works": {
+    "group": []
+  },
+  "https://pub.orcid.org/v3.0/0000-0002-5555-0404/educations": {
+    "affiliation-group": [
+      {
+        "summaries": [
+          {
+            "education-summary": {
+              "role-title": "PhD in Computer Science",
+              "department-name": "Computer Science",
+              "organization": {
+                "name": "Delta University"
+              },
+              "end-date": {
+                "year": {
+                  "value": "2018"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

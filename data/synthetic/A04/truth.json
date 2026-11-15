@@ -1,0 +1,98 @@
+{
+  "patches": [
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 2,
+      "field": "year",
+      "value": 2024
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 2,
+      "field": "type",
+      "value": "journal"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 2,
+      "field": "venue",
+      "value": "Journal of Intelligent Transport Systems"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 3,
+      "field": "year",
+      "value": 2022
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 3,
+      "field": "type",
+      "value": "journal"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 3,
+      "field": "venue",
+      "value": "Journal of Efficient Computing"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 4,
+      "field": "year",
+      "value": 2023
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 4,
+      "field": "type",
+      "value": "journal"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 4,
+      "field": "venue",
+      "value": "Journal of Graph Learning"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 5,
+      "field": "year",
+      "value": 2015
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 5,
+      "field": "type",
+      "value": "conference"
+    },
+    {
+      "op": "set",
+      "section": "publications",
+      "index": 5,
+      "field": "venue",
+      "value": "Workshop on Graph Signal Processing"
+    }
+  ],
+  "gold_requirements": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "not_established"
+  },
+  "gold_requirements_after_truth": {
+    "R1": "met",
+    "R2": "met",
+    "R3": "met"
+  }
+}

@@ -1,0 +1,5 @@
+PUBLICATIONS
+[1] S. Mansour, D. Vale. Explainable triage models. Journal of Clinical AI Systems, 2024.
+[2] S. Mansour. Counterfactual explanations at the bedside. Proceedings of the Health ML Conference, 2025.
+[3] S. Mansour, L. Grey. Auditing triage fairness. Proceedings of the Conference on Fair Computing, 2023.
+[4] S. Mansour. Rule extraction from ensembles. Proceedings of the Symposium on Interpretable AI, 2022.

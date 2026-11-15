@@ -1,0 +1,5 @@
+PUBLICATIONS
+1. H. Ibrahim. Energy-aware edge inference. Journal of Embedded Intelligence, 2024.
+2. H. Ibrahim, K. Fahmy. Scheduling DNNs on microcontrollers. Journal of Systems Architecture Studies, 2022.
+3. H. Ibrahim. TinyML for irrigation sensing. Proceedings of the Edge Computing Conference, 2023.
+4. H. Ibrahim, W. Nasr. Compressing keyword spotters. Proceedings of the Edge Computing Conference, 2021.
