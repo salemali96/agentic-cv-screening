@@ -377,3 +377,11 @@ app.mount("/static", StaticFiles(directory=FRONTEND_DIR), name="static")
 @app.get("/")
 def index():
     return FileResponse(FRONTEND_DIR / "index.html")
+
+
+@app.get("/{path:path}", include_in_schema=False)
+def spa_fallback(path: str):
+    """Any other page address loads the interface (it routes by #hash); unknown API paths stay a 404 that names the path."""
+    if path.startswith("api/") or path.startswith("static/"):
+        return JSONResponse(status_code=404, content={"detail": "Not Found", "path": "/" + path})
+    return FileResponse(FRONTEND_DIR / "index.html")
